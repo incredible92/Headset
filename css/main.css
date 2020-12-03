@@ -44,7 +44,7 @@ body {
   height: 118px;
   top: 165;
   left: 275;
-  background: white;
+  background: gray;
   transform: rotate(15deg);
   background: linear-gradient(
     180deg,
@@ -93,8 +93,7 @@ body {
   top: 58%;
   left: 79%;
   height: 123px;
-  width: 83px;
-  transform: rotate(-10deg);
+  width: 80px;
   border-top-right-radius: 69px;
   border-bottom-right-radius: 69px;
   border-top-left-radius: 10px;
